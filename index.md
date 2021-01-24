@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+![Image](https://drive.google.com/file/d/1k1XfyCoH4iK6ESZfqun0SH4UWojbD9UK/view?usp=sharing)
 
-You can use the [editor on GitHub](https://github.com/keepthekeep/game/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Changelog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### v1.0.0
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Keep the keep is currently released on android in Portugal and Australia.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Game release.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keepthekeep/game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Do you think you found a bug? Please contact us via [email](keepthekeepgame@gmail.com).
+To help us understand the issue please provide us the following information:
+- Game version (can be found in the 'Info' button in the welcome screen)
+- Operating System version (iOS or android)
+- Steps to reproduce the issue ()
+- Screenshots if you have any
