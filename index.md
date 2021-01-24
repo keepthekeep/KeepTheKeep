@@ -4,10 +4,15 @@
 
 ### v1.0.0
 
-Keep the keep is currently released on android in Portugal and Australia.
+Keep the keep is currently in softlaunch.
 
 ```markdown
-- Game release.
+Android:
+- Australia
+- Portugal
+
+iOS:
+-TBD
 ```
 
 ### Support or Contact
