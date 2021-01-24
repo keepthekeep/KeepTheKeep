@@ -12,5 +12,5 @@ Keep the keep is currently released on android in Portugal and Australia.
 
 ### Support or Contact
 
-Do you think you found a bug? Please report to us with a [Pre filled template email](mailto:keepthekeepgame@gmail.com?Subject=BugReport&Body=%0To help us understand the issue please provide us the following information:%0%0- Game version (can be found in the 'Info' button in the welcome screen%0- Operating System version (iOS or android)%0- Steps to reproduce the issue ()%0- Attach a screenshot showing the issue).
+Do you think you found a bug? Please report to us using this [template email](mailto:keepthekeepgame@gmail.com?Subject=BugReport&Body=%0To help us understand the issue please provide us the following information:%0%0- Game version (can be found in the 'Info' button in the welcome screen)%0- Operating System version (iOS or android)%0- Steps to reproduce the issue%0- Attach a screenshot showing the issue).
 
