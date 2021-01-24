@@ -1,4 +1,4 @@
-![Image](https://drive.google.com/file/d/1k1XfyCoH4iK6ESZfqun0SH4UWojbD9UK/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1k1XfyCoH4iK6ESZfqun0SH4UWojbD9UK/view)
 
 ## Changelog
 
