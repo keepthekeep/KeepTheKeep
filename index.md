@@ -8,12 +8,20 @@ ___
 
 ## Changelog
 
+### v1.0.3
+
+```markdown
+Bugfixes:
+- Closing game selection panel with the back button causes unexpected behaviour
+- Closing exit game panel does not reenable input
+```
+
 ### v1.0.2
 
 ```markdown
 - Balance general difficulty values
 
-Bugfixes
+Bugfixes:
 - Tutorial not showing the correct action during orb buy sequence
 - Unable to buy materials when the cost is equal to the owned gem quantity
 - Wrong localization tag in merchant speed card
@@ -28,13 +36,5 @@ Bugfix - Setting quallity settings to medium crashed some iOS devices.
 
 ### v1.0.0
 
-Keep the keep is currently in softlaunch.
-
-```markdown
-Android:
-- Australia
-- Portugal
-
-iOS:
--TBD
-```
+Keep the keep is now available on Android.
+The iOS version will be available soon.
