@@ -8,20 +8,25 @@ ___
 
 ## Changelog
 
+#### v1.0.4
+
+Bugfixes:
+- Input not read properly prevent some devices from processing single click events in 3D objects.
+
 #### v1.0.3
 
 Bugfixes:
-- Closing game selection panel with the back button causes unexpected behaviour
-- Closing exit game panel does not reenable input
+- Closing game selection panel with the back button causes unexpected behaviour.
+- Closing exit game panel does not reenable input.
 
 #### v1.0.2
 
-- Balance general difficulty values
+- Balance general difficulty values.
 
 Bugfixes:
-- Tutorial not showing the correct action during orb buy sequence
-- Unable to buy materials when the cost is equal to the owned gem quantity
-- Wrong localization tag in merchant speed card
+- Tutorial not showing the correct action during orb buy sequence.
+- Unable to buy materials when the cost is equal to the owned gem quantity.
+- Wrong localization tag in merchant speed card.
 
 #### v1.0.1
 
