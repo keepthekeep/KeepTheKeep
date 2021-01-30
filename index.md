@@ -8,14 +8,16 @@ ___
 
 ## Changelog
 
-#### v1.0.4
 
-Bugfixes:
-- Input not read properly prevent some devices from processing single click events in 3D objects.
+#### v1.0.5
+
+Fixed:
+- Game becomes unresponsive when leaving the level after the last wave spawned all units
+- Single tap does not get processed in some high resolution devices
 
 #### v1.0.3
 
-Bugfixes:
+Fixed:
 - Closing game selection panel with the back button causes unexpected behaviour.
 - Closing exit game panel does not reenable input.
 
@@ -23,14 +25,14 @@ Bugfixes:
 
 - Balance general difficulty values.
 
-Bugfixes:
+Fixed:
 - Tutorial not showing the correct action during orb buy sequence.
 - Unable to buy materials when the cost is equal to the owned gem quantity.
 - Wrong localization tag in merchant speed card.
 
 #### v1.0.1
 
-Bugfix - Setting quallity settings to medium crashed some iOS devices.
+Fixed - Setting quallity settings to medium crashed some iOS devices.
 
 #### v1.0.0
 
