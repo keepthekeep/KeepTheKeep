@@ -9,6 +9,19 @@ ___
 ## Changelog
 
 
+#### v1.1.1
+
+- New levels
+- Balanced spells
+Fixed:
+- Superior Chain not multiplying the range distance
+- Glossary item showing name outside the boundaries
+- Level ends after restart when performed during the last wave
+- Shop opens and adds order is the same click
+- Enemies tooltip panel showing percent value in 2 lines
+- End game panel not reporting star quantity
+- Level 3 light issues
+
 #### v1.0.5
 
 Fixed:
