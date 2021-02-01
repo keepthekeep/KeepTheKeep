@@ -13,6 +13,7 @@ ___
 
 - New levels
 - Balanced spells
+
 Fixed:
 - Superior Chain not multiplying the range distance
 - Glossary item showing name outside the boundaries
