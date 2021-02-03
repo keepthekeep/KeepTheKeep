@@ -12,6 +12,7 @@ ___
 #### v1.1.2
 
 Add feedback and bug report buttons
+
 Use system language as initial language
 
 Fixed:
