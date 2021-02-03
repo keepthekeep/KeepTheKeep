@@ -9,6 +9,17 @@ ___
 ## Changelog
 
 
+#### v1.1.2
+
+Add feedback and bug report buttons
+Use system language as initial language
+
+Fixed:
+- Unit weapons stats not being used when slabs are upgraded to silver or gold tier
+- Enemy stats being incorrectly updated when a temporary effect is removed
+- Islands off screen in wide screen devices
+- Units trespassing castle limits in camp levels
+
 #### v1.1.1
 
 - New levels
