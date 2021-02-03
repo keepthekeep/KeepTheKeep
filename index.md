@@ -23,8 +23,9 @@ Fixed:
 
 #### v1.1.1
 
-- New levels
-- Balanced spells
+New levels
+
+Balanced spells
 
 Fixed:
 - Superior Chain not multiplying the range distance
@@ -44,23 +45,23 @@ Fixed:
 #### v1.0.3
 
 Fixed:
-- Closing game selection panel with the back button causes unexpected behaviour.
-- Closing exit game panel does not reenable input.
+- Closing game selection panel with the back button causes unexpected behaviour
+- Closing exit game panel does not reenable input
 
 #### v1.0.2
 
-- Balance general difficulty values.
+Balance general difficulty values.
 
 Fixed:
-- Tutorial not showing the correct action during orb buy sequence.
-- Unable to buy materials when the cost is equal to the owned gem quantity.
-- Wrong localization tag in merchant speed card.
+- Tutorial not showing the correct action during orb buy sequence
+- Unable to buy materials when the cost is equal to the owned gem quantity
+- Wrong localization tag in merchant speed card
 
 #### v1.0.1
 
-Fixed - Setting quallity settings to medium crashed some iOS devices.
+Fixed - Setting quallity settings to medium crashed some iOS devices
 
 #### v1.0.0
 
-Keep the keep is now available on Android.
-The iOS version will be available soon.
+Keep the keep is now available on Android
+The iOS version will be available soon
