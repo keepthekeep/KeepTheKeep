@@ -8,6 +8,18 @@ ___
 
 ## Changelog
 
+#### v1.1.4
+
+Fixed:
+- World islands not always unloading from memory when off camera
+- Missing localization tag
+
+#### v1.1.3
+
+Fixed:
+- Earth and Wind combo was not spawning the trail in all projectiles
+- Frozen Giant spawned with wrong material
+- Enemy stats incorrectly changed when a temporary effect ends
 
 #### v1.1.2
 
@@ -17,7 +29,6 @@ Use system language as initial language
 
 Fixed:
 - Unit weapons stats not being used when slabs are upgraded to silver or gold tier
-- Enemy stats being incorrectly updated when a temporary effect is removed
 - Islands off screen in wide screen devices
 - Units trespassing castle limits in camp levels
 
