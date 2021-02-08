@@ -11,7 +11,7 @@ ___
 #### v1.1.5
 
 Fixed:
-- Remove Ads not working in iOS
+- Remove Ads not working on iOS
 
 #### v1.1.4
 
