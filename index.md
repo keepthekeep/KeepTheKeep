@@ -8,6 +8,11 @@ ___
 
 ## Changelog
 
+#### v1.1.5
+
+Fixed:
+- Remove Ads not working in iOS
+
 #### v1.1.4
 
 Fixed:
