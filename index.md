@@ -79,5 +79,8 @@ Fixed:
 
 #### v1.0.0
 
-Keep the keep is now available on Android
-The iOS version will be available soon
+Keep the keep is now available on Android and iOS
+
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.tuskgames.KeepTheKeep)
+
+[Download on the App Store](https://apps.apple.com/app/id1543935852)
