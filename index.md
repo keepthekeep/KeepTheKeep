@@ -10,8 +10,8 @@ ___
 
 #### v1.1.5
 
-Fixed:
-- 'Remove Ads' not working on iOS
+- Fixed 'Remove Ads' button not working
+- Improved legibility in the crafting panel
 
 #### v1.1.4
 
@@ -75,7 +75,7 @@ Fixed:
 
 #### v1.0.1
 
-Fixed - Setting quallity settings to medium crashed some iOS devices
+- Fixed Setting quallity settings to medium crashed some iOS devices
 
 #### v1.0.0
 
