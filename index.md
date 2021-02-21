@@ -15,7 +15,7 @@ ___
 
 ## Changelog
 
-#### v1.1.5
+#### v1.2.1
 
 - Added first person mode
 - Improved spells and visual effects
