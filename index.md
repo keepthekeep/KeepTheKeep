@@ -17,6 +17,14 @@ ___
 
 #### v1.1.5
 
+- Added first person mode
+- Improved spells and visual effects
+- Fixed weapon stats not being used when orbs are equipped
+- Fixed arrow split effects not dealing even damage to targets
+- Fixed minions getting stuck in some level play sessions
+
+#### v1.1.5
+
 - Fixed 'Remove Ads' button not working
 - Improved legibility in the crafting panel
 
