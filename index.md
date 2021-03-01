@@ -15,6 +15,14 @@ ___
 
 ## Changelog
 
+
+#### v1.2.2
+
+- Fixed: Units not attacking on some devices when pressing fast forward
+- Fixed: Only one minion looting gold on some devices
+- Performance improvement during gameplay
+- Balanced initial levels
+
 #### v1.2.1
 
 - Added first person mode
